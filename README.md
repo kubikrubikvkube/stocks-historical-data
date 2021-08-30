@@ -27,8 +27,8 @@ Stocks will be updated per request. Any additional tickers will be added per req
 
 Ticker | Company | From | To | ZIP file size | Last update |
 --- | --- | --- | --- | ---| --- |
-[GAZP](https://github.com/kubikrubikvkube/stocks-historical-data/gazp.zip) | [Gazprom](https://en.wikipedia.org/wiki/Gazprom)  |2018-03-08 07:39:00+00 | 2021-08-27 17:00:00+00 | 5,6mb | 27.08.2021
-[SBER](https://github.com/kubikrubikvkube/stocks-historical-data/sber.zip) | [Sberbank](https://en.wikipedia.org/wiki/Sberbank_of_Russia) |2018-03-08 07:39:00+00 | 2021-08-27 17:00:00+00 | 5,6mb | 27.08.2021
-[YNDX](https://github.com/kubikrubikvkube/stocks-historical-data/yndx.zip) |  [Yandex](https://en.wikipedia.org/wiki/Yandex)|2018-03-08 07:30:00+00 | 2021-08-27 13:24:00+00 | 4,7mb | 27.08.2021
-[LKOH](https://github.com/kubikrubikvkube/stocks-historical-data/lkoh.zip) | [Lukoil](https://en.wikipedia.org/wiki/Lukoil)  |2018-03-08 07:36:00+00 | 2021-08-30 07:00:00+00 | 4,8mb | 30.08.2021
+[GAZP](https://github.com/kubikrubikvkube/stocks-historical-data/blob/master/gazp.zip) | [Gazprom](https://en.wikipedia.org/wiki/Gazprom)  |2018-03-08 07:39:00+00 | 2021-08-27 17:00:00+00 | 5,6mb | 27.08.2021
+[SBER](https://github.com/kubikrubikvkube/stocks-historical-data/blob/master/sber.zip) | [Sberbank](https://en.wikipedia.org/wiki/Sberbank_of_Russia) |2018-03-08 07:39:00+00 | 2021-08-27 17:00:00+00 | 5,6mb | 27.08.2021
+[YNDX](https://github.com/kubikrubikvkube/stocks-historical-data/blob/master/yndx.zip) |  [Yandex](https://en.wikipedia.org/wiki/Yandex)|2018-03-08 07:30:00+00 | 2021-08-27 13:24:00+00 | 4,7mb | 27.08.2021
+[LKOH](https://github.com/kubikrubikvkube/stocks-historical-data/blob/master/lkoh.zip) | [Lukoil](https://en.wikipedia.org/wiki/Lukoil)  |2018-03-08 07:36:00+00 | 2021-08-30 07:00:00+00 | 4,8mb | 30.08.2021
 
